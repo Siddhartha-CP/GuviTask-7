@@ -4,7 +4,7 @@ public class EvenorOddstatement {
 
 	public static void main(String[] args) 
 	{
-		int num1=27;
+		int num1=26;
 		if(num1>0)
 		{
 			if(num1%2==0)

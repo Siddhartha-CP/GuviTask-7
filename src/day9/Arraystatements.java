@@ -11,14 +11,14 @@ public class Arraystatements {
 		arr[3]=40;
 		arr[4]=50;
 		
-		/*for(int i=0;i< arr.length;i++) 
+		for(int i=0;i< arr.length;i++) 
 			System.out.println(arr[i]);	
-			*/
+			
 		//or 
-		for(int num : arr)
+		/*for(int num : arr)
 		{
 			System.out.println(num);
-		}
+		}*/
 		
 		
 	}

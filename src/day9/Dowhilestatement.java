@@ -4,7 +4,7 @@ public class Dowhilestatement {
 
 	public static void main(String[] args) 
 	{
-		int num1=8;
+		int num1=1;
 		do 
 		{
 			System.out.print(num1+ " ");

@@ -13,7 +13,7 @@ public class Ifelsenestedstatement {
 			{
 				System.out.println("number is valid");
 			}
-			else 
+			else
 			{
 				System.out.println("invalid number");
 			}
